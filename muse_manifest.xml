@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1523990119151">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1523990288202">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="variation-4.css" crc="3880422882" ref="variation-4"/>
@@ -46,7 +46,7 @@
     </file>
   </folder>
   <file name="index.html" crc="180722731" seo="true" mt="1523983708350" redirect="true"/>
-  <file name="variation-1.html" crc="103520612" seo="true" mt="1523987099739" redirect="true"/>
+  <file name="variation-1.html" crc="391497932" seo="true" mt="1523990279461" redirect="true"/>
   <file name="variation-2.html" crc="3810454240" seo="true" mt="1523986984115" redirect="true"/>
   <file name="variation-3.html" crc="166993306" seo="true" mt="1523985234051" redirect="true"/>
   <file name="variation-4.html" crc="292434384" seo="true" mt="1523749565458" redirect="true"/>
