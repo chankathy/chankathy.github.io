@@ -1,0 +1,54 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1523990119151">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="variation-4.css" crc="3880422882" ref="variation-4"/>
+    <file name="variation-1.css" crc="3926284992" ref="variation-1"/>
+    <file name="index.css" crc="3858272243" ref="index"/>
+    <file name="variation-3.css" crc="4143759559" ref="variation-3"/>
+    <file name="variation-2.css" crc="3885418096" ref="variation-2"/>
+    <file name="variation-5.css" crc="160590032" ref="variation-5"/>
+  </folder>
+  <folder name="assets">
+    <file name="bar-code-movement.mp4" crc="261676970" seo="true" mt="1522038672000"/>
+    <file name="var-5-sound.mp3" crc="32342470" seo="true" mt="1522038006000"/>
+    <file name="poem-variation-1---kathy-chan.html" crc="422955998" seo="true" mt="1518441156000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="museutils.js" crc="340535759" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+    <file name="require.js" crc="7928878" ref="index:variation-1:variation-2:variation-3:variation-4:variation-5"/>
+  </folder>
+  <folder name="images">
+    <file name="variation 1.jpg" crc="414515187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="variation 2.jpg" crc="267005828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rain-clipart-rain-gif-16.gif" crc="4027986291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="river-whore-gif.gif" crc="3949878536" seo="true" ref="index:variation-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="variation-4" alt=""/>
+    </file>
+    <file name="variation 5.jpg" crc="4113479779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raindrop.gif" crc="4041835064" ref="variation-3">
+      <caption webpage="variation-3" alt=""/>
+    </file>
+    <file name="barcode-movement.gif" crc="142237073" seo="true" ref="variation-5">
+      <caption webpage="variation-5" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="180722731" seo="true" mt="1523983708350" redirect="true"/>
+  <file name="variation-1.html" crc="103520612" seo="true" mt="1523987099739" redirect="true"/>
+  <file name="variation-2.html" crc="3810454240" seo="true" mt="1523986984115" redirect="true"/>
+  <file name="variation-3.html" crc="166993306" seo="true" mt="1523985234051" redirect="true"/>
+  <file name="variation-4.html" crc="292434384" seo="true" mt="1523749565458" redirect="true"/>
+  <file name="variation-5.html" crc="437867043" seo="true" mt="1523750008402" redirect="true"/>
+</manifest>
