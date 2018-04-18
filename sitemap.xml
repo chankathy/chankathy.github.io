@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://chankathy.github.io/index.html</loc>
-    <lastmod>2018-04-17</lastmod>
+    <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,6 +20,39 @@
     <image:image>
       <image:loc>http://chankathy.github.io/images/variation%205.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/variation-5.html</loc>
+    <lastmod>2018-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.io/images/barcode-movement.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/what-is-art.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.io/images/wood%20frame-crop-u881.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/is-this-art.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.io/images/light%20off325x325.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/and-this-too.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://chankathy.github.io/variation-1.html</loc>
@@ -49,17 +82,50 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/variation-5.html</loc>
-    <lastmod>2018-04-14</lastmod>
+    <loc>http://chankathy.github.io/this-is-rain,-is-this-art.html</loc>
+    <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/images/barcode-movement.gif</image:loc>
+      <image:loc>http://chankathy.github.io/images/light%20on.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/assets/poem-variation-1---kathy-chan.html</loc>
-    <lastmod>2018-02-12</lastmod>
+    <loc>http://chankathy.github.io/and-this.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/is-this-art-too.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/i-m-not-sure.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.io/images/rain-clipart-rain-gif-16.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/is-this-art-though.html</loc>
+    <lastmod>2018-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.io/images/rain-clipart-rain-gif-16.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.io/images/light%20on.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/what-about-this.html</loc>
+    <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -70,8 +136,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://chankathy.github.io/assets/poem-variation-1---kathy-chan.html</loc>
+    <lastmod>2018-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://chankathy.github.io/assets/var-5-sound.mp3</loc>
     <lastmod>2018-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/assets/barcode-movement.gif</loc>
+    <lastmod>2018-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
