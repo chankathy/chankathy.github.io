@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1524057866670">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1524058088613">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="variation-4.css" crc="3880422882" ref="variation-4"/>
@@ -10,12 +10,12 @@
     <file name="is-this-art-too.css" crc="124985687" ref="is-this-art-too"/>
     <file name="this-is-rain_-is-this-art.css" crc="397749461" ref="this-is-rain,-is-this-art"/>
     <file name="is-this-art-though.css" crc="373041856" ref="is-this-art-though"/>
-    <file name="and-this-too.css" crc="88226136" ref="and-this-too"/>
+    <file name="and-this-too.css" crc="422617061" ref="and-this-too"/>
     <file name="what-about-this.css" crc="4226892288" ref="what-about-this"/>
     <file name="i-m-not-sure.css" crc="386022396" ref="i-m-not-sure"/>
     <file name="is-this-art.css" crc="3890959868" ref="is-this-art"/>
     <file name="and-this.css" crc="4110126495" ref="and-this"/>
-    <file name="what-is-art.css" crc="82072066" ref="what-is-art"/>
+    <file name="what-is-art.css" crc="402794184" ref="what-is-art"/>
   </folder>
   <folder name="assets">
     <file name="bar-code-movement.mp4" crc="261676970" seo="true" mt="1522038672000"/>
@@ -82,13 +82,13 @@
   <file name="variation-3.html" crc="166993306" seo="true" mt="1523985234051" redirect="true"/>
   <file name="variation-4.html" crc="292434384" seo="true" mt="1523749565458" redirect="true"/>
   <file name="variation-5.html" crc="437867043" seo="true" mt="1523750008402" redirect="true"/>
-  <file name="what-is-art.html" crc="3931561439" seo="true" mt="1524057652378" redirect="true"/>
+  <file name="what-is-art.html" crc="4221991906" seo="true" mt="1524058000636" redirect="true"/>
   <file name="is-this-art.html" crc="415818495" seo="true" mt="1524057686369" redirect="true"/>
   <file name="this-is-rain,-is-this-art.html" crc="4037748372" seo="true" mt="1524057366144" redirect="true"/>
   <file name="is-this-art-though.html" crc="3779794347" seo="true" mt="1524057217699" redirect="true"/>
   <file name="i-m-not-sure.html" crc="38408009" seo="true" mt="1524057407159" redirect="true"/>
-  <file name="what-about-this.html" crc="3935721746" seo="true" mt="1524057794512" redirect="true"/>
+  <file name="what-about-this.html" crc="3935721746" seo="true" mt="1524057990464" redirect="true"/>
   <file name="and-this.html" crc="4266419611" seo="true" mt="1524057428269" redirect="true"/>
-  <file name="and-this-too.html" crc="4119689974" seo="true" mt="1524057439390" redirect="true"/>
+  <file name="and-this-too.html" crc="396656850" seo="true" mt="1524058081223" redirect="true"/>
   <file name="is-this-art-too.html" crc="14874388" seo="true" mt="1524057443932" redirect="true"/>
 </manifest>
