@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1524058162261">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1524058278488">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="variation-4.css" crc="3880422882" ref="variation-4"/>
@@ -15,7 +15,7 @@
     <file name="i-m-not-sure.css" crc="386022396" ref="i-m-not-sure"/>
     <file name="is-this-art.css" crc="3890959868" ref="is-this-art"/>
     <file name="and-this.css" crc="4110126495" ref="and-this"/>
-    <file name="what-is-art.css" crc="3952011297" ref="what-is-art"/>
+    <file name="what-is-art.css" crc="431669591" ref="what-is-art"/>
   </folder>
   <folder name="assets">
     <file name="bar-code-movement.mp4" crc="261676970" seo="true" mt="1522038672000"/>
@@ -82,7 +82,7 @@
   <file name="variation-3.html" crc="166993306" seo="true" mt="1523985234051" redirect="true"/>
   <file name="variation-4.html" crc="292434384" seo="true" mt="1523749565458" redirect="true"/>
   <file name="variation-5.html" crc="437867043" seo="true" mt="1523750008402" redirect="true"/>
-  <file name="what-is-art.html" crc="3866371104" seo="true" mt="1524058156530" redirect="true"/>
+  <file name="what-is-art.html" crc="424408646" seo="true" mt="1524058269206" redirect="true"/>
   <file name="is-this-art.html" crc="415818495" seo="true" mt="1524057686369" redirect="true"/>
   <file name="this-is-rain,-is-this-art.html" crc="4037748372" seo="true" mt="1524057366144" redirect="true"/>
   <file name="is-this-art-though.html" crc="3779794347" seo="true" mt="1524057217699" redirect="true"/>
