@@ -1,0 +1,212 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chankathy.github.io/final-project" resolutions="1x" timestamp="1525051776170">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="parade-photoset.css" crc="3803791960" ref="parade-photoset"/>
+    <file name="livingroom.css" crc="3082715" ref="livingroom"/>
+    <file name="other--portrait-photoset.css" crc="3939358012" ref="other--portrait-photoset"/>
+    <file name="thanksgiving-photoset.css" crc="3870033883" ref="thanksgiving-photoset"/>
+    <file name="newspaper.css" crc="4009671366" ref="newspaper"/>
+    <file name="bedroom.css" crc="4092267695" ref="bedroom"/>
+    <file name="staircase.css" crc="417637764" ref="staircase"/>
+    <file name="index.css" crc="4074332365" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
+    <file name="museutils.js" crc="340535759" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
+    <file name="whatinput.js" crc="86476730" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
+    <file name="require.js" crc="7928878" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
+    <file name="webpro.js" crc="4059564322" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
+    <file name="touchswipe.js" crc="4075097462" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
+  </folder>
+  <folder name="images">
+    <file name="733259109155_ca.jpg" crc="4177130117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="welcomemat.png" crc="4242261527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue-striped-wallpaper-011.jpg" crc="3926391574" seo="true" ref="livingroom">
+      <caption webpage="livingroom" alt=""/>
+      <caption webpage="livingroom" alt=""/>
+    </file>
+    <file name="red-oak-hardwood-flooring-light-pacific-amaretto-ambiance-lauzon.jpg" crc="3983560750" seo="true" ref="livingroom:bedroom">
+      <caption webpage="livingroom" alt=""/>
+      <caption webpage="bedroom" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c279-u1909.png" crc="422606660" ref="livingroom"/>
+    <file name="table-png-image-u1916.png" crc="64967008" ref="livingroom"/>
+    <file name="5a0acb925a997e1c2cea10c0.png" crc="4106879019" seo="true" ref="livingroom">
+      <caption webpage="livingroom" alt=""/>
+    </file>
+    <file name="wallpaper.jpg" crc="3805086047" seo="true" ref="staircase">
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+    </file>
+    <file name="we fly pp-crop-u2369.jpg" crc="4289546664" seo="true" ref="staircase">
+      <caption webpage="staircase" alt=""/>
+    </file>
+    <file name="wood frame.png" crc="4255211631" seo="true" ref="staircase">
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+    </file>
+    <file name="emily1 pp-crop-u2399.jpg" crc="4269211069" seo="true" ref="staircase">
+      <caption webpage="staircase" alt=""/>
+    </file>
+    <file name="untitled-1-10 pp-crop-u2423.jpg" crc="3882522505" seo="true" ref="staircase">
+      <caption webpage="staircase" alt=""/>
+    </file>
+    <file name="wood texture.jpg" crc="3952690011" seo="true" ref="staircase">
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+      <caption webpage="staircase" alt=""/>
+    </file>
+    <file name="philly jesus-0029.jpg" crc="159919831" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
+    <file name="sea o green.jpg" crc="164377433" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="we fly.jpg" crc="3875380819" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-3.jpg" crc="273858820" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-7.jpg" crc="3910521539" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="philly jesus-0029151x101.jpg" crc="19452121" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="sea o green151x101.jpg" crc="3999150146" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="we fly-crop-u3615.jpg" crc="75788953" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-3151x101.jpg" crc="3933989706" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-7151x101.jpg" crc="108590134" seo="true" ref="parade-photoset">
+      <caption webpage="parade-photoset" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
+    <file name="untitled-1-4.jpg" crc="334408478" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-10.jpg" crc="313109256" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-11.jpg" crc="3967716161" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-12.jpg" crc="466792445" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-13.jpg" crc="400495399" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-4-crop-u3270.jpg" crc="4063962619" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-10176x99.jpg" crc="4169319006" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-11-crop-u3416.jpg" crc="4255236135" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-12-crop-u3436.jpg" crc="43106660" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-13-crop-u3456.jpg" crc="4128377778" seo="true" ref="thanksgiving-photoset">
+      <caption webpage="thanksgiving-photoset" alt=""/>
+    </file>
+    <file name="emily1.jpg" crc="166177027" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-7 002.jpg" crc="421212368" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="untitled-13.jpg" crc="4220198484" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="untitled-6.jpg" crc="4021240567" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="emily1-crop-u3706.jpg" crc="4086926934" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="untitled-1-7 002-crop-u3818.jpg" crc="3789612949" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="untitled-13151x101.jpg" crc="215294504" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="untitled-6-crop-u3865.jpg" crc="276730988" seo="true" ref="other--portrait-photoset">
+      <caption webpage="other--portrait-photoset" alt=""/>
+    </file>
+    <file name="graham-brown-wallpaper-15274-64_1000.jpg" crc="4291215134" seo="true" ref="bedroom">
+      <caption webpage="bedroom" alt=""/>
+      <caption webpage="bedroom" alt=""/>
+      <caption webpage="bedroom" alt=""/>
+      <caption webpage="bedroom" alt=""/>
+    </file>
+    <file name="bed-png-image-78722-u3895.png" crc="3923663453" ref="bedroom"/>
+  </folder>
+  <file name="index.html" crc="3790369604" seo="true" mt="1525042685756" redirect="true"/>
+  <file name="livingroom.html" crc="469754479" seo="true" mt="1525042236491" redirect="true"/>
+  <file name="newspaper.html" crc="4167780942" seo="true" mt="1525035029494" redirect="false"/>
+  <file name="staircase.html" crc="4096532566" seo="true" mt="1525051417585" redirect="true"/>
+  <file name="parade-photoset.html" crc="4233191279" seo="true" mt="1525041480637" redirect="true"/>
+  <file name="thanksgiving-photoset.html" crc="3854241866" seo="true" mt="1525041321895" redirect="true"/>
+  <file name="other--portrait-photoset.html" crc="3885222540" seo="true" mt="1525041705817" redirect="true"/>
+  <file name="bedroom.html" crc="435631141" seo="true" mt="1525042248365" redirect="true"/>
+</manifest>
