@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1524058323113">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://chankathy.github.io" resolutions="1x" timestamp="1525051616826">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="variation-4.css" crc="3880422882" ref="variation-4"/>
     <file name="variation-1.css" crc="3835794526" ref="variation-1"/>
-    <file name="index.css" crc="141803684" ref="index"/>
-    <file name="variation-3.css" crc="4143759559" ref="variation-3"/>
-    <file name="variation-2.css" crc="3885418096" ref="variation-2"/>
-    <file name="variation-5.css" crc="160590032" ref="variation-5"/>
-    <file name="is-this-art-too.css" crc="124985687" ref="is-this-art-too"/>
-    <file name="this-is-rain_-is-this-art.css" crc="397749461" ref="this-is-rain,-is-this-art"/>
-    <file name="is-this-art-though.css" crc="373041856" ref="is-this-art-though"/>
     <file name="and-this-too.css" crc="422617061" ref="and-this-too"/>
-    <file name="what-about-this.css" crc="4226892288" ref="what-about-this"/>
-    <file name="i-m-not-sure.css" crc="386022396" ref="i-m-not-sure"/>
-    <file name="is-this-art.css" crc="3890959868" ref="is-this-art"/>
-    <file name="and-this.css" crc="4110126495" ref="and-this"/>
+    <file name="index.css" crc="141803684" ref="index"/>
+    <file name="this-is-rain_-is-this-art.css" crc="397749461" ref="this-is-rain,-is-this-art"/>
     <file name="what-is-art.css" crc="532394865" ref="what-is-art"/>
+    <file name="is-this-art-though.css" crc="373041856" ref="is-this-art-though"/>
+    <file name="is-this-art.css" crc="3890959868" ref="is-this-art"/>
+    <file name="variation-2.css" crc="3885418096" ref="variation-2"/>
+    <file name="what-about-this.css" crc="4226892288" ref="what-about-this"/>
+    <file name="variation-4.css" crc="3880422882" ref="variation-4"/>
+    <file name="i-m-not-sure.css" crc="386022396" ref="i-m-not-sure"/>
+    <file name="and-this.css" crc="4110126495" ref="and-this"/>
+    <file name="variation-3.css" crc="4143759559" ref="variation-3"/>
+    <file name="is-this-art-too.css" crc="124985687" ref="is-this-art-too"/>
+    <file name="variation-5.css" crc="160590032" ref="variation-5"/>
   </folder>
   <folder name="assets">
     <file name="bar-code-movement.mp4" crc="261676970" seo="true" mt="1522038672000"/>
@@ -45,8 +45,8 @@
     </file>
     <file name="rain-clipart-rain-gif-16.gif" crc="4027986291" seo="true" ref="index:is-this-art-though:i-m-not-sure">
       <caption webpage="index" alt=""/>
-      <caption webpage="i-m-not-sure" alt=""/>
       <caption webpage="is-this-art-though" alt=""/>
+      <caption webpage="i-m-not-sure" alt=""/>
     </file>
     <file name="river-whore-gif.gif" crc="3949878536" seo="true" ref="index:variation-4">
       <caption webpage="index" alt=""/>
@@ -82,7 +82,7 @@
   <file name="variation-3.html" crc="166993306" seo="true" mt="1523985234051" redirect="true"/>
   <file name="variation-4.html" crc="292434384" seo="true" mt="1523749565458" redirect="true"/>
   <file name="variation-5.html" crc="437867043" seo="true" mt="1523750008402" redirect="true"/>
-  <file name="what-is-art.html" crc="4050418341" seo="true" mt="1524058319146" redirect="true"/>
+  <file name="what-is-art.html" crc="3923510737" seo="true" mt="1524058319146" redirect="true"/>
   <file name="is-this-art.html" crc="415818495" seo="true" mt="1524057686369" redirect="true"/>
   <file name="this-is-rain,-is-this-art.html" crc="4037748372" seo="true" mt="1524057366144" redirect="true"/>
   <file name="is-this-art-though.html" crc="3779794347" seo="true" mt="1524057217699" redirect="true"/>
