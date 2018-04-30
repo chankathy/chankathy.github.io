@@ -26,9 +26,48 @@
   </url>
   <url>
     <loc>http://chankathy.github.iio/newspaper.html</loc>
-    <lastmod>2018-04-29</lastmod>
+    <lastmod>2018-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/april10_news_woar%20update_chankathy_%20(5%20of%206).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/424_features_design%20exhibit_chankathy_print-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/424_features_design%20exhibit_chankathy_web-12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/424_features_owlcapella_chankathy_web-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/chankathy_tuwalkouttoprotestgunviolence_web-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/chankathy_tuwalkouttoprotestgunviolence_web-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/chankathy_tuwalkouttoprotestgunviolence_web-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/chankathy_tuwalkouttoprotestgunviolence_web-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/april18__chankathy_microsofttinyhouseattu_-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/april17_features_fortnite_chankathy_digital_-10-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/april10_news_tsg%20elected%20team_chankathy_-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/april10_news_woar%20update_chankathy_%20(4%20of%206).jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://chankathy.github.iio/staircase.html</loc>
@@ -158,7 +197,7 @@
   </url>
   <url>
     <loc>http://chankathy.github.iio/bedroom.html</loc>
-    <lastmod>2018-04-29</lastmod>
+    <lastmod>2018-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -166,9 +205,6 @@
     </image:image>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -179,7 +215,7 @@
   </url>
   <url>
     <loc>http://chankathy.github.iio/hallway-of-rooms.html</loc>
-    <lastmod>2018-04-29</lastmod>
+    <lastmod>2018-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -194,20 +230,26 @@
   </url>
   <url>
     <loc>http://chankathy.github.iio/computer-room.html</loc>
-    <lastmod>2018-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chankathy.github.iio/model-photoset-1.html</loc>
-    <lastmod>2018-04-29</lastmod>
+    <lastmod>2018-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
+      <image:loc>http://chankathy.github.iio/images/contact-us.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/popular-vintage-office-desk-within-clemco-signed-executive-walnut-1930-s-library-or.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/model-photoset-1.html</loc>
+    <lastmod>2018-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/20472487_10203507189115742_1260049565_o.jpg</image:loc>
@@ -233,14 +275,11 @@
   </url>
   <url>
     <loc>http://chankathy.github.iio/model-photoset-2.html</loc>
-    <lastmod>2018-04-29</lastmod>
+    <lastmod>2018-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/20472487_10203507189115742_1260049565_o.jpg</image:loc>
@@ -287,14 +326,11 @@
   </url>
   <url>
     <loc>http://chankathy.github.iio/model-photoset-3.html</loc>
-    <lastmod>2018-04-29</lastmod>
+    <lastmod>2018-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/20472487_10203507189115742_1260049565_o.jpg</image:loc>
@@ -349,6 +385,24 @@
     </image:image>
     <image:image>
       <image:loc>http://chankathy.github.iio/images/second%20edit.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/laptop.html</loc>
+    <lastmod>2018-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/laptop-notebook-png-image-image-with-transparent-background-20125x69.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/camera.html</loc>
+    <lastmod>2018-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/1529_d3300_front109x93.png</image:loc>
     </image:image>
   </url>
 </urlset>
