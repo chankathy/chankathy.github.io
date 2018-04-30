@@ -1,174 +1,354 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://chankathy.github.io/final-project/index.html</loc>
+    <loc>http://chankathy.github.iio/index.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/733259109155_ca.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/733259109155_ca.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/welcomemat.png</image:loc>
+      <image:loc>http://chankathy.github.iio/images/welcomemat.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/livingroom.html</loc>
+    <loc>http://chankathy.github.iio/livingroom.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/blue-striped-wallpaper-011.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/blue-striped-wallpaper-011.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/red-oak-hardwood-flooring-light-pacific-amaretto-ambiance-lauzon.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/red-oak-hardwood-flooring-light-pacific-amaretto-ambiance-lauzon.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/newspaper.html</loc>
+    <loc>http://chankathy.github.iio/newspaper.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/staircase.html</loc>
+    <loc>http://chankathy.github.iio/staircase.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/wallpaper.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/wallpaper.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/we%20fly%20pp-crop-u2369.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/we%20fly%20pp-crop-u2369.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/emily1%20pp-crop-u2399.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/emily1%20pp-crop-u2399.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-10%20pp-crop-u2423.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-10%20pp-crop-u2423.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/wood%20texture.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/wood%20texture.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/parade-photoset.html</loc>
+    <loc>http://chankathy.github.iio/parade-photoset.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/philly%20jesus-0029.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/philly%20jesus-0029.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/sea%20o%20green.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/sea%20o%20green.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/we%20fly.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/we%20fly.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-3.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-7.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/philly%20jesus-0029151x101.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/philly%20jesus-0029151x101.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/sea%20o%20green151x101.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/sea%20o%20green151x101.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/we%20fly-crop-u3615.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/we%20fly-crop-u3615.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-3151x101.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-3151x101.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-7151x101.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-7151x101.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/wood%20frame50x50.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/thanksgiving-photoset.html</loc>
+    <loc>http://chankathy.github.iio/thanksgiving-photoset.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-4.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-10.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-10.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-11.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-11.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-12.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-12.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-13.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-13.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-4-crop-u3270.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-4-crop-u3270.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-10176x99.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-10176x99.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-11-crop-u3416.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-11-crop-u3416.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-12-crop-u3436.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-12-crop-u3436.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-13-crop-u3456.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-13-crop-u3456.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/other--portrait-photoset.html</loc>
+    <loc>http://chankathy.github.iio/other--portrait-photoset.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/emily1.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/emily1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-7%20002.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-7%20002.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-13.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-13.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-6.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/emily1-crop-u3706.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/emily1-crop-u3706.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-1-7%20002-crop-u3818.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-1-7%20002-crop-u3818.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-13151x101.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-13151x101.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/untitled-6-crop-u3865.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/untitled-6-crop-u3865.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/bedroom.html</loc>
+    <loc>http://chankathy.github.iio/bedroom.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/red-oak-hardwood-flooring-light-pacific-amaretto-ambiance-lauzon.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/red-oak-hardwood-flooring-light-pacific-amaretto-ambiance-lauzon.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
+      <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://chankathy.github.io/final-project/untitled-9.html</loc>
+    <loc>http://chankathy.github.iio/kitchen.html</loc>
     <lastmod>2018-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/hallway-of-rooms.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/red-oak-hardwood-flooring-light-pacific-amaretto-ambiance-lauzon.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/wallpaper.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/door-png-image-17923.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/computer-room.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/model-photoset-1.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20472487_10203507189115742_1260049565_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20472686_10203507011631305_248467083_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20495474_10203507010991289_101765103_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20495836_10203507014911387_1093955665_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20517300_10203507010911287_2005546998_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20524119_10203507014991389_591069785_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20536004_10203507014951388_690970667_o.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/model-photoset-2.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20472487_10203507189115742_1260049565_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20472686_10203507011631305_248467083_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20495474_10203507010991289_101765103_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20495836_10203507014911387_1093955665_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20517300_10203507010911287_2005546998_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20524119_10203507014991389_591069785_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20536004_10203507014951388_690970667_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0078.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/img_3213.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/img_3123%20i%20like%20this%20one.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.iio/model-photoset-3.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/f1609c45cdd37d0bcb6ceb42a9ae4004.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20472487_10203507189115742_1260049565_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20472686_10203507011631305_248467083_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20495474_10203507010991289_101765103_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20495836_10203507014911387_1093955665_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20517300_10203507010911287_2005546998_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20524119_10203507014991389_591069785_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/20536004_10203507014951388_690970667_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0078.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0153.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0156.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0157.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/dsc_0207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/img_3213.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/img_3123%20i%20like%20this%20one.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/31219073_1765404226844130_8380627826209980416_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/kathy%20photoshoot%20(13%20of%2023).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/sam_0777.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chankathy.github.iio/images/second%20edit.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
