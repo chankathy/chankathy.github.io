@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chankathy.github.io/final-project" resolutions="1x" timestamp="1525052539150">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chankathy.github.io/final-project" resolutions="1x" timestamp="1525052622819">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="parade-photoset.css" crc="3803791960" ref="parade-photoset"/>
     <file name="livingroom.css" crc="134803836" ref="livingroom"/>
     <file name="other--portrait-photoset.css" crc="3939358012" ref="other--portrait-photoset"/>
+    <file name="untitled-9.css" crc="4009671366" ref="untitled-9"/>
     <file name="thanksgiving-photoset.css" crc="3870033883" ref="thanksgiving-photoset"/>
     <file name="newspaper.css" crc="4009671366" ref="newspaper"/>
     <file name="bedroom.css" crc="4092267695" ref="bedroom"/>
     <file name="staircase.css" crc="4290045700" ref="staircase"/>
     <file name="index.css" crc="4074332365" ref="index"/>
-    <file name="untitled-9.css" crc="4009671366" ref="untitled-9"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom:untitled-9"/>
@@ -40,6 +40,8 @@
     </file>
     <file name="580b57fcd9996e24bc43c279-u1909.png" crc="422606660" ref="livingroom"/>
     <file name="table-png-image-u1916.png" crc="64967008" ref="livingroom"/>
+    <file name="u1901.png" crc="3759383024" ref="livingroom"/>
+    <file name="u1901-r.png" crc="4241625052" ref="livingroom"/>
     <file name="wallpaper.jpg" crc="3805086047" seo="true" ref="staircase">
       <caption webpage="staircase" alt=""/>
       <caption webpage="staircase" alt=""/>
@@ -58,12 +60,18 @@
     <file name="we fly pp-crop-u2369.jpg" crc="4289546664" seo="true" ref="staircase">
       <caption webpage="staircase" alt=""/>
     </file>
+    <file name="u2389.png" crc="426258441" ref="staircase"/>
+    <file name="u2389-r.png" crc="3817780483" ref="staircase"/>
     <file name="emily1 pp-crop-u2399.jpg" crc="4269211069" seo="true" ref="staircase">
       <caption webpage="staircase" alt=""/>
     </file>
     <file name="untitled-1-10 pp-crop-u2423.jpg" crc="3882522505" seo="true" ref="staircase">
       <caption webpage="staircase" alt=""/>
     </file>
+    <file name="u2440.png" crc="426258441" ref="staircase"/>
+    <file name="u2440-r.png" crc="3817780483" ref="staircase"/>
+    <file name="u2494.png" crc="426258441" ref="staircase"/>
+    <file name="u2494-r.png" crc="3817780483" ref="staircase"/>
     <file name="wood texture.jpg" crc="3952690011" seo="true" ref="staircase">
       <caption webpage="staircase" alt=""/>
       <caption webpage="staircase" alt=""/>
@@ -193,14 +201,6 @@
       <caption webpage="bedroom" alt=""/>
     </file>
     <file name="bed-png-image-78722-u3895.png" crc="3923663453" ref="bedroom"/>
-    <file name="u1901.png" crc="3759383024" ref="livingroom"/>
-    <file name="u1901-r.png" crc="4241625052" ref="livingroom"/>
-    <file name="u2389.png" crc="426258441" ref="staircase"/>
-    <file name="u2389-r.png" crc="3817780483" ref="staircase"/>
-    <file name="u2440.png" crc="426258441" ref="staircase"/>
-    <file name="u2440-r.png" crc="3817780483" ref="staircase"/>
-    <file name="u2494.png" crc="426258441" ref="staircase"/>
-    <file name="u2494-r.png" crc="3817780483" ref="staircase"/>
   </folder>
   <file name="index.html" crc="3790369604" seo="true" mt="1525042685756" redirect="true"/>
   <file name="livingroom.html" crc="3956463368" seo="true" mt="1525052225093" redirect="true"/>
