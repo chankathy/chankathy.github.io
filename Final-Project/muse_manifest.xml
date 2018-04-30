@@ -1,22 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chankathy.github.io/final-project" resolutions="1x" timestamp="1525051776170">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chankathy.github.io/final-project" resolutions="1x" timestamp="1525052539150">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="parade-photoset.css" crc="3803791960" ref="parade-photoset"/>
-    <file name="livingroom.css" crc="3082715" ref="livingroom"/>
+    <file name="livingroom.css" crc="134803836" ref="livingroom"/>
     <file name="other--portrait-photoset.css" crc="3939358012" ref="other--portrait-photoset"/>
     <file name="thanksgiving-photoset.css" crc="3870033883" ref="thanksgiving-photoset"/>
     <file name="newspaper.css" crc="4009671366" ref="newspaper"/>
     <file name="bedroom.css" crc="4092267695" ref="bedroom"/>
-    <file name="staircase.css" crc="417637764" ref="staircase"/>
+    <file name="staircase.css" crc="4290045700" ref="staircase"/>
     <file name="index.css" crc="4074332365" ref="index"/>
+    <file name="untitled-9.css" crc="4009671366" ref="untitled-9"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
-    <file name="museutils.js" crc="340535759" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
-    <file name="whatinput.js" crc="86476730" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
-    <file name="require.js" crc="7928878" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom:untitled-9"/>
+    <file name="museutils.js" crc="340535759" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom:untitled-9"/>
+    <file name="whatinput.js" crc="86476730" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom:untitled-9"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom:untitled-9"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom:untitled-9"/>
+    <file name="require.js" crc="7928878" ref="index:livingroom:newspaper:staircase:parade-photoset:thanksgiving-photoset:other--portrait-photoset:bedroom:untitled-9"/>
     <file name="webpro.js" crc="4059564322" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="parade-photoset:thanksgiving-photoset:other--portrait-photoset"/>
@@ -39,9 +40,6 @@
     </file>
     <file name="580b57fcd9996e24bc43c279-u1909.png" crc="422606660" ref="livingroom"/>
     <file name="table-png-image-u1916.png" crc="64967008" ref="livingroom"/>
-    <file name="5a0acb925a997e1c2cea10c0.png" crc="4106879019" seo="true" ref="livingroom">
-      <caption webpage="livingroom" alt=""/>
-    </file>
     <file name="wallpaper.jpg" crc="3805086047" seo="true" ref="staircase">
       <caption webpage="staircase" alt=""/>
       <caption webpage="staircase" alt=""/>
@@ -58,11 +56,6 @@
       <caption webpage="staircase" alt=""/>
     </file>
     <file name="we fly pp-crop-u2369.jpg" crc="4289546664" seo="true" ref="staircase">
-      <caption webpage="staircase" alt=""/>
-    </file>
-    <file name="wood frame.png" crc="4255211631" seo="true" ref="staircase">
-      <caption webpage="staircase" alt=""/>
-      <caption webpage="staircase" alt=""/>
       <caption webpage="staircase" alt=""/>
     </file>
     <file name="emily1 pp-crop-u2399.jpg" crc="4269211069" seo="true" ref="staircase">
@@ -200,13 +193,22 @@
       <caption webpage="bedroom" alt=""/>
     </file>
     <file name="bed-png-image-78722-u3895.png" crc="3923663453" ref="bedroom"/>
+    <file name="u1901.png" crc="3759383024" ref="livingroom"/>
+    <file name="u1901-r.png" crc="4241625052" ref="livingroom"/>
+    <file name="u2389.png" crc="426258441" ref="staircase"/>
+    <file name="u2389-r.png" crc="3817780483" ref="staircase"/>
+    <file name="u2440.png" crc="426258441" ref="staircase"/>
+    <file name="u2440-r.png" crc="3817780483" ref="staircase"/>
+    <file name="u2494.png" crc="426258441" ref="staircase"/>
+    <file name="u2494-r.png" crc="3817780483" ref="staircase"/>
   </folder>
   <file name="index.html" crc="3790369604" seo="true" mt="1525042685756" redirect="true"/>
-  <file name="livingroom.html" crc="469754479" seo="true" mt="1525042236491" redirect="true"/>
+  <file name="livingroom.html" crc="3956463368" seo="true" mt="1525052225093" redirect="true"/>
   <file name="newspaper.html" crc="4167780942" seo="true" mt="1525035029494" redirect="false"/>
-  <file name="staircase.html" crc="4096532566" seo="true" mt="1525051417585" redirect="true"/>
+  <file name="staircase.html" crc="159044769" seo="true" mt="1525052383321" redirect="true"/>
   <file name="parade-photoset.html" crc="4233191279" seo="true" mt="1525041480637" redirect="true"/>
   <file name="thanksgiving-photoset.html" crc="3854241866" seo="true" mt="1525041321895" redirect="true"/>
   <file name="other--portrait-photoset.html" crc="3885222540" seo="true" mt="1525041705817" redirect="true"/>
   <file name="bedroom.html" crc="435631141" seo="true" mt="1525042248365" redirect="true"/>
+  <file name="untitled-9.html" crc="11433730" seo="true" mt="1525052099922" redirect="false"/>
 </manifest>

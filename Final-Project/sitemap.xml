@@ -23,9 +23,6 @@
     <image:image>
       <image:loc>http://chankathy.github.io/final-project/images/red-oak-hardwood-flooring-light-pacific-amaretto-ambiance-lauzon.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/5a0acb925a997e1c2cea10c0.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://chankathy.github.io/final-project/newspaper.html</loc>
@@ -43,9 +40,6 @@
     </image:image>
     <image:image>
       <image:loc>http://chankathy.github.io/final-project/images/we%20fly%20pp-crop-u2369.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chankathy.github.io/final-project/images/wood%20frame.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chankathy.github.io/final-project/images/emily1%20pp-crop-u2399.jpg</image:loc>
@@ -170,5 +164,11 @@
     <image:image>
       <image:loc>http://chankathy.github.io/final-project/images/graham-brown-wallpaper-15274-64_1000.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://chankathy.github.io/final-project/untitled-9.html</loc>
+    <lastmod>2018-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
