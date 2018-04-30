@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chankathy.github.iio" resolutions="1x" timestamp="1525064463781">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chankathy.github.iio" resolutions="1x" timestamp="1525064648706">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="parade-photoset.css" crc="3956836542" ref="parade-photoset"/>
